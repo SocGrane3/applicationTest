@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="main_activity_button_next">NEXT</string>
+    <string name="main_activity_titel_text">Main Activity Titel</string>
+    <string name="button_back">BACK</string>
+    <string name="main_activity_button_logged">Logged</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="second_activity_titel_text">Welcome back</string>
+</resources>
